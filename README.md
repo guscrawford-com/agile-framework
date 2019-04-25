@@ -258,7 +258,7 @@ the right, we value the items on the left more.
 ### In Application:
 
 * Satisfy the customer
-* Welcome changing requierments
+* Welcome changing requierments [late in development]
 * Deliver working software frequently
 * Business people and developers must work together daily
 * Motivated individuals build projects; give them the environment, support and trust they need
@@ -269,3 +269,152 @@ the right, we value the items on the left more.
 * Simplicity, maxmizing work not done
 * Self-organizing teams make the best product
 * Reflecting how to be more effective as a team
+
+----
+
+## Session 2 - Apr 24 2019
+
+### Scrum: an Introduction, the Iterations and the Roles
+
+#### Recapping
+
+*What does my team remember?*
+
+* "Earliest delivery of business value"
+* Less bureaucracy
+* Minimize risk at all levels, maximize value
+* Client "learning" what they want versus "already knowing" beforehand
+
+*What are the primary Agile values?*
+
+1. Values working code over documentaion
+2. Communication [individuals and interactions] over process and tools
+3. Responding to change over following a plan
+4. Customer collaboration over negotiation
+
+*Estimates*
+
+* Always wrong
+* "Relative" is better than "perceived actual"
+
+*Development team*
+
+* More vertically structured (cross-functional)
+
+#### "Scrum"
+
+*"We're losing the relay race"*
+
+&mdash; Hirotaka Takeuchi and Ikujiro Nonaka, ["The New New Product Development Game" *Havard Business Review*](https://hbr.org/1986/01/the-new-new-product-development-game)
+
+
+##### Scrum is...
+
+* an agile framework that allows us to focus on delivering the highest business value in the shortest time.
+* rapidly and repeatedly inspecting actual working software (every two weeks to one month)
+* the business etting the priorities.  Teams self-oranized to determine the best way to deliver the highest priority features.
+* seeing real working software and deciding to release as is or continuing enhancement
+
+###### Characteristics
+
+* Self-organizing teams
+* Product progresses in a series of equally sized "sprints"
+* Requirements are captured as items in a list of "product backlog"
+* No specific engineering practices prescribed
+* Uses generative rules to create an agile environment for deliverying projects
+* One of the "agile processes"
+
+*Many teams use **scrum** and then make modifications to their processes (scrumbut)*
+
+<table>
+    <tr>
+        <td>Product Backlog</td>
+        <td>Sprint Backlog</td>
+        <td>Potentially Shippable Product Increment</td>
+    </tr>
+    <tr>
+        <td>📥📦📦📦📦</td>
+        <td>📤📦📦</td>
+        <td>📦</td>
+    </tr>
+    <tr>
+        <td>➡</td>
+        <td>➡ Scrum everyday</td>
+        <td>↪ 2-4 weeks</td>
+    </tr>
+</table>
+
+###### Sprints
+
+* Scrum projects make progress in a series of "sprints"
+  * Analogous to Extreme Programming iterations
+* Typical duration is 2-4 weeks or a calendar month at most
+* A constant duration leads to a better rhythm
+* Coded and tested within the sprint
+
+###### Sequential vs. Overlapping Development
+
+`Requirements` ➡ `Design` ➡ `Code` ➡ `Test`
+
+*"Rather than doing all of one thing at a time... Scrum teams do a little of everything all the time"*
+
+###### No Changes during a Sprint
+
+* Plan sprint durations around how long you can commit to keeping change out of the sprint
+* If a story will no longer provide business value; quit working on it
+  * Re-plan; deliver as much value as is remaining
+
+##### Framework
+
+* Roles
+  * Cross-functional team members (dev team)
+    * Typically 5-9 people, ideally co-located
+    * Cross-functional:
+      * Programmers
+      * Testers
+      * UX Designers
+    * Full-time
+      * *There are some exceptions*
+    * Membership only changes between sprints
+  * Product-owner *never a Scrum Master*
+    * Defines the features of the product
+    * Makes scope and schedule decisions
+    * Responsible for maximizing the value of the product
+    * Prioritizes the product backlog
+    * Adjust features and priority every sprint as needed
+    * Accept or reject work results
+  * Scrum-master *could be a member of the dev team* **role is prioritized over any others**
+    * Enacts Scrum values and practices
+    * Removes impediments
+    * Coaches the team to their best performance
+    * Enables close cooperation across all roles and functions
+    * Facilitates meetings and events
+    * Conflict mediation
+    * [*Shit bad Scrum Masters say:*](https://www.youtube.com/watch?v=GGbsgs611MM)
+      * Not participating in Retro
+      * Changing sprint duration
+      * Trying to manipulate velocity
+      * PM and PO
+      * Long standups
+      * Pressuring rather than shielding
+      * Allowing scrum to be non-interactive
+      * Not removing impedements
+* Events
+  * 
+* Artifacts
+
+#### The Ball Point Game
+
+* Pass as many balls as possible through each team meber in 2 minutes
+* Rules:
+  * Start point is the end point
+  * Everyone must touch the ball
+  * Ball must have air time
+  * Ball must touch the floor
+  * You cannot pass the ball to your direct neighbor
+
+* www.scrumguides.org/scrum-uide.html
+* www.mountaingoatsoftware.com/scrum
+* www.scrumalliance.org
+* www.scrum.org/forum
+* blog.crisp.se
