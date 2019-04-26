@@ -418,3 +418,148 @@ the right, we value the items on the left more.
 * www.scrumalliance.org
 * www.scrum.org/forum
 * blog.crisp.se
+
+----
+
+## Session 3 - Apr 25 2019
+
+### Scrum: The Events & Artifacts
+
+#### Recapping
+
+* Roles:
+  * Cross-functioning Team
+    * Self-organizing
+    * Cross-trained to some level, "T shaped"
+    * Devs, QA, etc.
+    * Ideally co-located
+  * Product Owner *"Scope" focused*
+    * Never the SM
+    * Manages backlog
+    * Makes visible the long-term progress / velocity
+  * Scrum Master *"Delivery" focused*
+    * Never the PO
+    * Removes inhibitors / impediments
+    * Shields team from pressure
+    * Makes visible the progress during the sprint
+    * Servant Leader, cannot obstruct self-organization of cross-functioning team
+    * Helps the PO with communication
+    * Chief Agile Coach
+* Framework:
+  * Short iterations
+    * Consistent length
+    * Keep change out of active sprints
+    * Daily stand-up: 15 mins
+    * Shortens feedback loop between PO, PM, Dev-team
+    * Maxmizes value
+  * "Yesterday's Weather" / Backlog priotization
+  
+#### Events
+
+##### Sprint Planning
+
+* Team capacity
+  * Prioritization
+    * Analyze and evaluate product backlog
+    * Select sprint goal
+  * Sprint planning *timebox to 4 hours a week*
+    * Create sprint backlog (tasks) from backlog items
+      * Teams selects items from the product backlog they can forecast completion
+      * Tasks are identified and each is estimated (116 hours)
+      * Collboratively, not done alone by the SM
+      * High-level design is considered
+      * Sprint
+    * Decide how to acheive sprint goal (design)
+    * Estimate sprint backlog in hours
+* Product backlog
+* Current product
+
+##### The Daily Scrum / "Stand-up"
+
+* Daily
+* 15-minutes
+* Stand-up
+* **Not** for problem solving
+* The whold world is invited
+  * Anyone can come; only team members may speak
+* Helps avoid other unnecessary meetings
+* An understanding of the plan for today to get us one step closer to achieveing the sprint goal
+
+1. Yesterday?
+2. Today?
+3. Blockers?
+
+
+##### The Sprint Review
+
+*The Show and Tell*
+
+* Team present what it accomplished during the sprint
+* Typically takes the form of a demo of new features or underlying architecture
+* Informal
+  * 2-hour prep-time
+  * Very simple (or no) slides
+* Whole team participates
+* Invite the world
+
+##### The Sprint Retrospective
+
+* Broadly happens *after* the sprint review
+* Periodic look a what is and is **not** working
+* Typically 15 mins - 1 hour
+* Done at the end of every sprint
+* Whole team participates
+  * SMART actions on how to improve
+    * Specific
+    * Measurable
+    * Achievable
+    * Relevant
+    * Time-bound
+  * Start / Stop / Continue
+  * What went well / What needs improvement
+
+##### The Backlog Refinement
+
+* Adding detail and estimates and **order** to the backlog
+* Dev team and PO collaborate on these details
+* The Scrum team decides how the refinement is done
+* PBI's are deemed *ready* for selection in Sprint planning
+* [INVEST](https://www.mindtools.com/pages/article/smart-goals.htm)
+  * Indepdent
+  * Negotiable
+  * Valuable
+  * Estimatable
+  * Small
+  * Testable
+* [SPIDR](https://blogs.itemis.com/en/spidr-five-simple-techniques-for-a-perfectly-split-user-story)
+  * Spikes
+  * Paths
+  * Interfaces
+  * Data
+  * Rules
+
+### Artifacts
+
+#### Product Backlog
+
+* The requirments
+* A list of all desired work on the project
+* Ideally expressed such that each item has value to the users of customers of the product
+* Prioritized at the start of each sprint
+
+#### Sprint Backlog
+
+* Individuals sign up for work of their own choosing
+  * Work is never assigned
+* Estimated work remaining is updated daily
+* Any team member can add, delete or change the sprint backlog
+* Work for the sprint emerges
+* If work is unclear, define a sprint backlog item with a larger amount of time
+
+
+
+
+*Questions for end*
+
+* Should epics be pressued to fit? **No**
+* Distinguish design from requirements
