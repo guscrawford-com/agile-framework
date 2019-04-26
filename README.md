@@ -6,24 +6,7 @@
 
 #### About the Trainers
 
-Instructor is [Kris Adams](kadams@sscinc.com)
-
 Methods and content developed by [Henrik Knilberg](henrik.knilberg@crisp.se)
-
-#### Goals, Introductions and Working Agreement
-
-*My team's goals*
-
-* Faster scrums (Joe)
-* Sprint grooming is more conventional (Joe)
-* Fitting epics (Derek)
-* Developers tracking their time and status (Derek)
-* Retrospectives (Joe)
-* Understanding (from Phone)
-
-#### Perceived Problems
-
-* Too many meetings (Daren)
 
 #### Agenda
 
@@ -36,22 +19,11 @@ Methods and content developed by [Henrik Knilberg](henrik.knilberg@crisp.se)
   * Planning Poker
 * Additional agile concepts
 * Scrum for Stakeholders
-
-#### My Pre-existing Knowledge of Agile
-
-* Working at level of requirments with most atomic definition of an application feature
-* Working on features composed of Stories
-* Working in short sprints
-* Distinct and Important Meetings
-  * Retrospective meetings
-  * Grooming / refinements
-  * Task planning and splitting meetings
+itting meetings
   * Scrum / stand-ups
 
 
 ### What is Agile?
-
-*My definition* "A work-management convention that prioritizes small iterative changes."
 
 "Early delivery of business value"
 
